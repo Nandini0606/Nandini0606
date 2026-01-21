@@ -5,7 +5,7 @@
 Welcome to my little corner of GitHub!     
 I'm a passionate about growing my career as a Data Analyst who transforms raw data into actionable insights through compelling visualizations and robust data models. I specialize in creating interactive dashboards that tell stories and drive business decisions. Here, you'll find:
 
-🛠️ Technical Skills:  
+🛠️ Technical Skills:
 - Programming & Query Languages:  
   🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)    
   🗃️ SQL (Advanced queries, optimization, stored procedures)
